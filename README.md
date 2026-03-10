@@ -33,6 +33,3 @@ This project helps in understanding the practical implementation of:
 * Stack operations
 * Dynamic memory management in C++
 * Real-world problem solving using data structures
-
-
-hote hain (jo **GitHub par project ko senior level ka bana deta hai**).
